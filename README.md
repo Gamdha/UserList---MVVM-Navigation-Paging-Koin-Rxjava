@@ -1,6 +1,6 @@
-# RandomUsers
+# UserList
 
-RandomUsers is a sample Android application with the main goal to cover clean architecture  
+UserList is a sample Android application with the main goal to cover clean architecture  
 
 ## Architecture & libraries
 I used the following architecture, patterns and libraries:
@@ -17,8 +17,5 @@ I used the following architecture, patterns and libraries:
 
 ## Screenshots
 
-<img src="device-2022-09-15-174818.png" width=200>
-<img src="device-2022-09-15-174854.png" width=200> 
-<img src="device-2022-09-15-175023.png" width=200> 
-<img src="device-2022-09-15-175055.png" width=200>
+<img src="device-2022-09-15-174818.png" width=200><img src="device-2022-09-15-174854.png" width=200><img src="device-2022-09-15-175023.png" width=200><img src="device-2022-09-15-175055.png" width=200>
 

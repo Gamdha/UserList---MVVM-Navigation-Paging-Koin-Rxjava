@@ -23,8 +23,8 @@ import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 
-const val BASE_URL: String = "https://api.randomuser.me/"
-const val DATABASE_NAME = "random_users_database"
+const val BASE_URL: String = ""
+const val DATABASE_NAME = "users_database"
 
 val dataModule = module {
     single { provideOkHttpClient() }
